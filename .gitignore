@@ -1,0 +1,11 @@
+# Build & Executables
+*.exe
+*.o
+*.obj
+*.out
+
+# IDEs & Editors
+.vscode/
+.vs/
+*.user
+*.suo
